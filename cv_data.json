@@ -1,0 +1,140 @@
+{
+  "personal_details": {
+    "name": "Priya Sharma",
+    "email": "priya.sharma@email.com",
+    "phone": "+91 98765 43210",
+    "location": "Bangalore, Karnataka, India",
+    "linkedin": "linkedin.com/in/priyasharma",
+    "github": "github.com/priyasharma-dev",
+    "summary": "Software engineer with 4+ years of experience building scalable web applications and data pipelines. Passionate about machine learning, clean code, and mentoring junior developers. Strong background in Python, cloud technologies, and agile development."
+  },
+  "education": [
+    {
+      "degree": "Master of Technology (M.Tech)",
+      "field": "Computer Science and Engineering",
+      "institution": "Indian Institute of Technology (IIT) Delhi",
+      "location": "New Delhi, India",
+      "start_year": 2018,
+      "end_year": 2020,
+      "cgpa": "8.7/10",
+      "highlights": [
+        "Thesis: Efficient Retrieval-Augmented Generation for Domain-Specific Question Answering",
+        "Coursework: Deep Learning, Natural Language Processing, Distributed Systems, Cloud Computing"
+      ]
+    },
+    {
+      "degree": "Bachelor of Technology (B.Tech)",
+      "field": "Information Technology",
+      "institution": "National Institute of Technology (NIT) Warangal",
+      "location": "Warangal, Telangana, India",
+      "start_year": 2014,
+      "end_year": 2018,
+      "cgpa": "8.4/10",
+      "highlights": [
+        "Graduated with Distinction",
+        "President of Coding Club (2017–2018)",
+        "Coursework: Data Structures, Algorithms, Database Management, Software Engineering"
+      ]
+    }
+  ],
+  "skills": {
+    "programming_languages": ["Python", "JavaScript", "TypeScript", "SQL", "Java"],
+    "frameworks_and_libraries": ["FastAPI", "Flask", "React", "LangChain", "PyTorch", "Pandas", "NumPy"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis", "Elasticsearch"],
+    "cloud_and_devops": ["AWS (EC2, S3, Lambda, SageMaker)", "Docker", "Kubernetes", "GitHub Actions", "Terraform"],
+    "tools": ["Git", "Jupyter", "VS Code", "Postman", "Jira", "Confluence"],
+    "soft_skills": ["Technical Leadership", "Agile/Scrum", "Code Review", "Technical Writing", "Mentoring"]
+  },
+  "projects": [
+    {
+      "name": "DocuMind RAG Assistant",
+      "duration": "Jan 2024 – Present",
+      "technologies": ["Python", "LangChain", "FAISS", "OpenAI API", "FastAPI"],
+      "description": "Built an internal knowledge-base chatbot that answers employee questions from company documentation. Implemented hybrid retrieval combining dense vector search with BM25 keyword matching. Reduced average query resolution time by 40% compared to manual document search.",
+      "role": "Lead Developer",
+      "highlights": [
+        "Designed chunking strategy with metadata-aware splitting for PDF and Markdown docs",
+        "Deployed on AWS Lambda with API Gateway; handles 500+ queries/day",
+        "Achieved 85% user satisfaction in internal beta testing"
+      ]
+    },
+    {
+      "name": "Real-Time Analytics Dashboard",
+      "duration": "Jun 2022 – Dec 2023",
+      "technologies": ["Python", "Apache Kafka", "Spark Streaming", "React", "PostgreSQL"],
+      "description": "Developed a real-time analytics platform for an e-commerce client to monitor sales, inventory, and user behavior. Processed 2M+ events per day with sub-second latency for dashboard updates.",
+      "role": "Backend Engineer",
+      "highlights": [
+        "Architected event-driven pipeline using Kafka and Spark Structured Streaming",
+        "Built REST and WebSocket APIs for live dashboard feeds",
+        "Optimized PostgreSQL queries reducing report generation time from 45s to 3s"
+      ]
+    },
+    {
+      "name": "HealthTrack Mobile App",
+      "duration": "Mar 2021 – May 2022",
+      "technologies": ["React Native", "Node.js", "MongoDB", "Firebase"],
+      "description": "Co-developed a health-tracking mobile application with 10,000+ downloads. Features include step counting, calorie logging, medication reminders, and weekly health reports.",
+      "role": "Full-Stack Developer",
+      "highlights": [
+        "Implemented offline-first sync using local SQLite and cloud backup",
+        "Integrated push notifications for medication reminders (95% delivery rate)",
+        "Published on Google Play Store with 4.5-star average rating"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "TechNova Solutions Pvt. Ltd.",
+      "location": "Bangalore, India",
+      "start_date": "Jan 2023",
+      "end_date": "Present",
+      "responsibilities": [
+        "Lead a team of 4 engineers building ML-powered customer support automation tools",
+        "Design and implement RAG pipelines for document Q&A across 3 product lines",
+        "Conduct code reviews and establish engineering best practices for the AI team",
+        "Collaborate with product managers to define roadmap and prioritize features"
+      ],
+      "achievements": [
+        "Reduced customer support ticket volume by 30% through automated FAQ bot",
+        "Mentored 2 junior engineers who were promoted within 12 months",
+        "Received 'Innovator of the Year' award in 2024"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "DataPulse Analytics",
+      "location": "Hyderabad, India",
+      "start_date": "Jul 2020",
+      "end_date": "Dec 2022",
+      "responsibilities": [
+        "Built and maintained data ingestion pipelines processing 5TB+ daily",
+        "Developed RESTful microservices using Python FastAPI and PostgreSQL",
+        "Created automated testing suites achieving 90% code coverage",
+        "Participated in on-call rotation for production incident response"
+      ],
+      "achievements": [
+        "Migrated legacy monolith to microservices, improving deployment frequency from monthly to daily",
+        "Designed caching layer with Redis reducing API latency by 60%",
+        "Contributed to open-source data validation library (500+ GitHub stars)"
+      ]
+    },
+    {
+      "title": "Software Engineering Intern",
+      "company": "CloudBridge Technologies",
+      "location": "Pune, India",
+      "start_date": "May 2019",
+      "end_date": "Jul 2019",
+      "responsibilities": [
+        "Assisted in developing internal tools for cloud resource monitoring",
+        "Wrote Python scripts for automated AWS cost analysis and reporting",
+        "Participated in daily stand-ups and sprint planning sessions"
+      ],
+      "achievements": [
+        "Built cost optimization dashboard saving the company $15,000/month in AWS spend",
+        "Received full-time offer based on internship performance"
+      ]
+    }
+  ]
+}

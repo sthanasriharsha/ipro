@@ -1,0 +1,17 @@
+[
+  "Personal Details: Priya Sharma. Location: Bangalore, Karnataka, India. Summary: Software engineer with 4+ years of experience building scalable web applications and data pipelines. Passionate about machine learning, clean code, and mentoring junior developers. Strong background in Python, cloud technologies, and agile development.",
+  "Education: Master of Technology (M.Tech) in Computer Science and Engineering at Indian Institute of Technology (IIT) Delhi. CGPA: 8.7/10.",
+  "Education: Bachelor of Technology (B.Tech) in Information Technology at National Institute of Technology (NIT) Warangal. CGPA: 8.4/10.",
+  "Skills - programming_languages: Python, JavaScript, TypeScript, SQL, Java",
+  "Skills - frameworks_and_libraries: FastAPI, Flask, React, LangChain, PyTorch, Pandas, NumPy",
+  "Skills - databases: PostgreSQL, MongoDB, Redis, Elasticsearch",
+  "Skills - cloud_and_devops: AWS (EC2, S3, Lambda, SageMaker), Docker, Kubernetes, GitHub Actions, Terraform",
+  "Skills - tools: Git, Jupyter, VS Code, Postman, Jira, Confluence",
+  "Skills - soft_skills: Technical Leadership, Agile/Scrum, Code Review, Technical Writing, Mentoring",
+  "Project: DocuMind RAG Assistant. Role: Lead Developer. Technologies: Python, LangChain, FAISS, OpenAI API, FastAPI. Description: Built an internal knowledge-base chatbot that answers employee questions from company documentation. Implemented hybrid retrieval combining dense vector search with BM25 keyword matching. Reduced average query resolution time by 40% compared to manual document search.",
+  "Project: Real-Time Analytics Dashboard. Role: Backend Engineer. Technologies: Python, Apache Kafka, Spark Streaming, React, PostgreSQL. Description: Developed a real-time analytics platform for an e-commerce client to monitor sales, inventory, and user behavior. Processed 2M+ events per day with sub-second latency for dashboard updates.",
+  "Project: HealthTrack Mobile App. Role: Full-Stack Developer. Technologies: React Native, Node.js, MongoDB, Firebase. Description: Co-developed a health-tracking mobile application with 10,000+ downloads. Features include step counting, calorie logging, medication reminders, and weekly health reports.",
+  "Experience: Senior Software Engineer at TechNova Solutions Pvt. Ltd.. Duration: Jan 2023 - Present. Achievements: Reduced customer support ticket volume by 30% through automated FAQ bot, Mentored 2 junior engineers who were promoted within 12 months, Received 'Innovator of the Year' award in 2024",
+  "Experience: Software Engineer at DataPulse Analytics. Duration: Jul 2020 - Dec 2022. Achievements: Migrated legacy monolith to microservices, improving deployment frequency from monthly to daily, Designed caching layer with Redis reducing API latency by 60%, Contributed to open-source data validation library (500+ GitHub stars)",
+  "Experience: Software Engineering Intern at CloudBridge Technologies. Duration: May 2019 - Jul 2019. Achievements: Built cost optimization dashboard saving the company $15,000/month in AWS spend, Received full-time offer based on internship performance"
+]
